@@ -6,7 +6,7 @@
   </h2>
 </div>
 
-- 🌱 I’m currently learning computer science
+- 🌱 I’m majored in Computer Science
 - 📫 How to reach me : namanh2k2av@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=namanh2k2av&icon=0&color=1)](https://visitcount.itsvg.in)
