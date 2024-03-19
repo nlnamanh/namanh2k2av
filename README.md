@@ -9,7 +9,7 @@
 - 🌱 I’m majored in Computer Science
 - 📫 How to reach me : namanh2k2av@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=namanh2k2av&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nlnamanh&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nlnamanh.22) 
